@@ -31,3 +31,4 @@ int main() {
     cout << "\nNama : " << mhs2.nama;
     cout << "\nAlamat : " << mhs2.alamat;
 }
+
